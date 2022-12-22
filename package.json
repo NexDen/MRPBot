@@ -1,0 +1,30 @@
+{
+  "name": "witcherp",
+  "version": "1.0.0",
+  "description": "Witcher tarafından ücretsiz olarak paylaşılmış roleplay moderasyon altyapısıdır.",
+  "main": "witcher.js",
+  "scripts": {
+    "test": "node witcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheWTCHR/dcjs-v12-rpmod"
+  },
+  "keywords": [
+    "Witcher",
+    "Roleplay",
+    "Moderasyon",
+    "Nazlı",
+    "WTCHR",
+    "RP",
+    "Serendia",
+    "The Witcher"
+  ],
+  "author": "Witcher#0101",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.2",
+    "fs": "^0.0.1-security",
+    "gamedig": "^4.0.5"
+  }
+}
